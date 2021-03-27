@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "index.html", "index.html", "{891C625D-ED67-4F80-84A6-D5E166C13064}"
+	ProjectSection(SolutionItems) = preProject
+		Myhobbies.html = Myhobbies.html
+		Mycontact.html = Mycontact.html
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{87F80936-6DA8-48CD-A10B-9C9644F59490}"
+	ProjectSection(SolutionItems) = preProject
+		IMG_0143.jpg = IMG_0143.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{BEBF23F8-E07D-4E86-B3FF-CF4D715D76A2}"
+	ProjectSection(SolutionItems) = preProject
+		styles.css = styles.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EFC6192-5789-47CA-A7FB-2BD714429B72}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{87F80936-6DA8-48CD-A10B-9C9644F59490} = {891C625D-ED67-4F80-84A6-D5E166C13064}
+	EndGlobalSection
+EndGlobal
